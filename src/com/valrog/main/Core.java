@@ -17,7 +17,7 @@ public class Core extends Canvas implements Runnable {
 	public static int width = 300;
 	public static int height = width / 12 * 9;
 	public static int scale = 3;
-	public static int test = '';sss
+	public static int test = '';ssss
 	
 	public static String title = "Valrog";
 	
